@@ -45,17 +45,8 @@
 1. 시작 화면
 
 <img width="150px" height="200px" src="https://user-images.githubusercontent.com/56334761/128700006-34115c9f-01d6-4ba0-9a2d-c589c589f899.PNG">     <img width="150px" height="200px" src="https://user-images.githubusercontent.com/56334761/128700015-c2c53e14-a998-4773-81e6-5d8484d20899.PNG">
-
-3. ISBN 스캔 화면
-
-![isbn](https://user-images.githubusercontent.com/56334761/128700026-abeb65cb-da9e-41d4-94e3-dfbe0f873d58.PNG)
-
-4. 스캔 완료 후 화면
-
-![스캔후](https://user-images.githubusercontent.com/56334761/128700033-1b87918d-3693-4a55-a04d-e947561c33b9.PNG)
-
-5. 등급 판정 화면
-
-![왼료](https://user-images.githubusercontent.com/56334761/128700040-59278694-fd6f-4f6f-9a07-0e18b1f73d97.PNG)
+<img width="150px" height="200px" src="https://user-images.githubusercontent.com/56334761/128700026-abeb65cb-da9e-41d4-94e3-dfbe0f873d58.PNG">
+<img width="150px" height="200px" src="https://user-images.githubusercontent.com/56334761/128700033-1b87918d-3693-4a55-a04d-e947561c33b9.PNG">
+<img width="150px" height="200px" src="https://user-images.githubusercontent.com/56334761/128700040-59278694-fd6f-4f6f-9a07-0e18b1f73d97.PNG">
 
 
