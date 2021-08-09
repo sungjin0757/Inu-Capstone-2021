@@ -69,5 +69,6 @@
 3. 사진 업로드가 완료되면 '감정하기' 버튼 활성화.
 4. 등급 판정 실행.
 
-
+</br>
+---
 **<a href="https://www.inu.ac.kr/user/indexSub.do?codyMenuSeq=2452975&siteId=isis&dum=dum&boardId=630255&page=3&command=view&boardSeq=630325">인천대학교 졸업작품 갤러리 - 책Check</a>**
