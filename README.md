@@ -44,7 +44,7 @@
 ### 작품 시연
 1. 시작 화면
 
-<img width="100px" height="150px" src="https://user-images.githubusercontent.com/56334761/128700006-34115c9f-01d6-4ba0-9a2d-c589c589f899.PNG">  <img width="100px" height="150px" src="https://user-images.githubusercontent.com/56334761/128700015-c2c53e14-a998-4773-81e6-5d8484d20899.PNG">
+<img width="150px" height="200px" src="https://user-images.githubusercontent.com/56334761/128700006-34115c9f-01d6-4ba0-9a2d-c589c589f899.PNG">  <img width="100px" height="150px" src="https://user-images.githubusercontent.com/56334761/128700015-c2c53e14-a998-4773-81e6-5d8484d20899.PNG">
 
 3. ISBN 스캔 화면
 
