@@ -1,6 +1,8 @@
 # 책Check
 ## 2021 인천대학교 캡스톤디자인 졸업작품 경진대회 - 장려상 🎖
 
+**<a href="https://github.com/sungjin0757/Inu-Capstone-2021/raw/master/presentation.pptx">DOWNLOAD : 발표 자료 </a>**
+
 ### 팀명 : 5인가족
 - 김대현
 - 김윤성
