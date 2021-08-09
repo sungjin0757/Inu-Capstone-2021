@@ -22,4 +22,4 @@
 -> 책의 등급을 객관적으로 판별 해줄 수 있는 Application!
 
 ### 핵심 기능
-<img width="778" alt="스크린샷 2021-08-09 오후 7 39 28" src="https://user-images.githubusercontent.com/56334761/128694595-af8bde1c-d6a8-43ad-9d1b-19d85534420e.png">
+<img width="462" alt="스크린샷_2021-08-09_오후_7 39 28-removebg-preview" src="https://user-images.githubusercontent.com/56334761/128695330-54f86fb8-c219-4266-84a5-63add0d51a94.png">
