@@ -44,7 +44,7 @@
 ### 작품 시연
 1. 시작 화면
 
-![시작](https://user-images.githubusercontent.com/56334761/128700006-34115c9f-01d6-4ba0-9a2d-c589c589f899.PNG)
+<img width="100px" height="150px" src="https://user-images.githubusercontent.com/56334761/128700006-34115c9f-01d6-4ba0-9a2d-c589c589f899.PNG">
 
 2. 초기 화면
 
