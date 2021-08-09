@@ -42,7 +42,7 @@
 3. 기존 이미지의 비율과 산출된 노이즈를 근거로 등급 판정
 
 ### 작품 시연
-
+	초기화면		책 ISBN 스캔
 ![12-removebg-preview (3)](https://user-images.githubusercontent.com/56334761/128698711-224df5ce-a3bb-4eab-8ac4-c756be3c0f11.png)
 
 
