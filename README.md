@@ -1,5 +1,5 @@
-## 책Check
-### 2021 인천대학교 캡스톤디자인 졸업작품 경진대회 - 장려상
+# 책Check
+## 2021 인천대학교 캡스톤디자인 졸업작품 경진대회 - 장려상
 
 ### 팀명 : 5인가족
 - 김대현
@@ -42,9 +42,19 @@
 3. 기존 이미지의 비율과 산출된 노이즈를 근거로 등급 판정
 
 ### 작품 시연
-	초기화면		책 ISBN 스캔
-![12-removebg-preview (3)](https://user-images.githubusercontent.com/56334761/128698711-224df5ce-a3bb-4eab-8ac4-c756be3c0f11.png)
+1. 시작 화면
+![시작](https://user-images.githubusercontent.com/56334761/128700006-34115c9f-01d6-4ba0-9a2d-c589c589f899.PNG)
 
+2. 초기 화면
+![초기](https://user-images.githubusercontent.com/56334761/128700015-c2c53e14-a998-4773-81e6-5d8484d20899.PNG)
 
-![34-removebg-preview](https://user-images.githubusercontent.com/56334761/128698566-76565dcc-6277-45c6-bc4e-bf38cc4f6029.png)
+3. ISBN 스캔 화면
+![isbn](https://user-images.githubusercontent.com/56334761/128700026-abeb65cb-da9e-41d4-94e3-dfbe0f873d58.PNG)
+
+4. 스캔 완료 후 화면
+![스캔후](https://user-images.githubusercontent.com/56334761/128700033-1b87918d-3693-4a55-a04d-e947561c33b9.PNG)
+
+5. 등급 판정 화면
+![왼료](https://user-images.githubusercontent.com/56334761/128700040-59278694-fd6f-4f6f-9a07-0e18b1f73d97.PNG)
+
 
